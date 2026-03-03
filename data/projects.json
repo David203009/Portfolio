@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p1",
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce application with payment integration, real-time inventory management, and admin dashboard.",
+    "tags": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "githubUrl": "#",
+    "liveUrl": "#"
+  },
+  {
+    "id": "d67860c3-9435-4ab1-8f20-8274ea9da558",
+    "title": "Organization manager",
+    "description": "This is a FullStack project",
+    "tags": [
+      "nextjs",
+      "python",
+      "c#",
+      ".net",
+      "redis",
+      "postgresql"
+    ],
+    "githubUrl": "#",
+    "liveUrl": "#"
+  }
+]

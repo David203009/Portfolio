@@ -1,0 +1,80 @@
+[
+  {
+    "id": "s1",
+    "title": "Frontend",
+    "skills": [
+      {
+        "name": "React"
+      },
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "TypeScript"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Tailwind CSS"
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "title": "Backend",
+    "skills": [
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "C# .NET"
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "title": "Tools",
+    "skills": [
+      {
+        "name": "Git"
+      },
+      {
+        "name": "GitHub"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "VS Code"
+      },
+      {
+        "name": "Visual Studio"
+      }
+    ]
+  },
+  {
+    "id": "1ea0fc7a-98ab-4038-8945-a664cc30c55c",
+    "title": "Database",
+    "skills": [
+      {
+        "name": "PostgreSql"
+      },
+      {
+        "name": "SqlServer"
+      },
+      {
+        "name": "MongoDb"
+      },
+      {
+        "name": "Redis"
+      },
+      {
+        "name": "MySql"
+      }
+    ]
+  }
+]

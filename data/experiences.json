@@ -1,0 +1,26 @@
+[
+  {
+    "id": "66b81cfc-a093-415e-b0b6-b783bd26e1bb",
+    "title": "Full Stack",
+    "company": "FrogTech Solutions",
+    "period": "2023-2024",
+    "description": "",
+    "technologies": [
+      "C#",
+      ".NET",
+      "SqlServer"
+    ]
+  },
+  {
+    "id": "51e426f9-8328-4338-ad6c-c6ae9d11d048",
+    "title": "FullStack Developer",
+    "company": "Bizora",
+    "period": "2025-present",
+    "description": "",
+    "technologies": [
+      "python",
+      "xml",
+      "postgresql"
+    ]
+  }
+]
